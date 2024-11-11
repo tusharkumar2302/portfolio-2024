@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/tushar-kumar-3325051a6/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/tusharkumar2302",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:tusharkumar27864@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}
