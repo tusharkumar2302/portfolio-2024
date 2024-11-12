@@ -1,10 +1,10 @@
 {
   "education": [
     {
-      "name": "Digipen Institute of Technology Singapore",
-      "href": "https://www.digipen.edu.sg",
-      "title": "BS in Computer Science in Real-Time Interactive Simulation",
-      "logo": "/digipen.png",
+      "name": "CETPA Infotech Pvt. ltd.",
+      "href": "https://www.cetpainfotech.com/",
+      "title": "Application Development in React Native",
+      "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF4fmxH6z1guA/company-logo_200_200/company-logo_200_200/0/1711807069489/cetpainfotech_logo?e=1739404800&v=beta&t=S9B330sRyj2wrLMNwBRaKPAGMT61dJgA5iGZ-0Do1sA",
       "start": "Sep 2019",
       "end": "Apr 2023",
       "description": [
