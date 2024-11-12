@@ -58,11 +58,11 @@ export default async function Home() {
         </div>
       </section>
 
-      <Experience />
+      {/* <Experience /> */}
 
       <section className="flex flex-col gap-8">
         <div className="flex justify-between">
-          <h2 className="title text-2xl sm:text-3xl">featured projects</h2>
+          <h2 className="title text-2xl sm:text-3xl">projects</h2>
           <LinkWithIcon
             href="/projects"
             position="right"
@@ -75,7 +75,7 @@ export default async function Home() {
 
       <section className="flex flex-col gap-8">
         <div className="flex justify-between">
-          <h2 className="title text-3xl">recent posts</h2>
+          <h2 className="title text-3xl">youtube videos</h2>
           <LinkWithIcon
             href="/blog"
             position="right"
@@ -84,7 +84,12 @@ export default async function Home() {
           />
         </div>
         <Posts posts={posts} />
+        
+        <h2 className="title text-3xl mt-10">experience & education</h2>
+        <Experience />
+
       </section>
     </article>
+    
   );
 }
